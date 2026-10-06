@@ -25,7 +25,7 @@
 				<link>http://localhost:1313/jayden_page/</link>
 				<pubDate>Thu, 01 Oct 2026 11:43:30 -0400</pubDate>
 				<guid>http://localhost:1313/jayden_page/</guid>
-				<description>&lt;p&gt;This is a page, and I can add content to it&lt;/p&gt;</description>
+				<description>&lt;p&gt;&lt;strong&gt;This is a page, and I can add content to it&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
