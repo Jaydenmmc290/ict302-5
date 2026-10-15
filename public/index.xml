@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>My New Hugo Project</title>
+		<title>Group 5 Hugo</title>
 		<link>http://localhost:1313/</link>
-		<description>Recent content on My New Hugo Project</description>
+		<description>Recent content on Group 5 Hugo</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -26,6 +26,13 @@
 				<pubDate>Thu, 01 Oct 2026 11:43:30 -0400</pubDate>
 				<guid>http://localhost:1313/jayden_page/</guid>
 				<description>&lt;p&gt;&lt;strong&gt;This is a page, and I can add content to it&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Colin Post</title>
+				<link>http://localhost:1313/posts/colin_post/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/colin_post/</guid>
+				<description>&lt;p&gt;Chicken and Rice is a healthy food option&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
