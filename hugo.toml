@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'Group 5 Hugo'
-theme = 'ananke'
+theme = 'hugo-PaperMod-master'
 
 [menus]
   [[menus.main]]
@@ -12,3 +12,7 @@ theme = 'ananke'
   name = 'Group Work'
   pageRef = '/GroupWork'
   weight = 10
+  
+  [taxonomies]
+	category = 'categories'
+	tag = 'tags'

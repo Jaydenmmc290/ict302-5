@@ -14,7 +14,23 @@
     <loc>http://localhost:1313/jayden_page/</loc>
     <lastmod>2026-10-01T11:43:30-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/brownies/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/colin_post/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/colin_post_2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/fats/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/low-calorie/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/main-course/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/meal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/protein/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

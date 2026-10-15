@@ -1,9 +1,7 @@
 +++
-draft = true
+draft = false
 title = 'Colin Post'
-[taxonmies]
 	categories = ['protein', 'low-calorie']
-	tags = ['meal', 'main course']
-	title = 'Example'
+	tags = ['Steak and Eggs', 'Chicken and Rice']
 +++
-Chicken and Rice is a healthy food option
+Here are some healthy food options

@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Categories on Group 5 Hugo</title>
-		<link>http://localhost:1313/categories/</link>
-		<description>Recent content in Categories on Group 5 Hugo</description>
-		<generator>Hugo</generator>
-		<language>en-us</language>
-		
-		
-		
-		
-			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-	</channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Group 5 Hugo</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Group 5 Hugo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fats</title>
+      <link>http://localhost:1313/categories/fats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/fats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Low-Calorie</title>
+      <link>http://localhost:1313/categories/low-calorie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/low-calorie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Protein</title>
+      <link>http://localhost:1313/categories/protein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/protein/</guid>
+      <description></description>
+    </item>
+  </channel>
 </rss>
