@@ -3,7 +3,6 @@ locale = 'en-us'
 title = 'Group 5 Hugo'
 theme = 'ananke'
 
-{{ range .Site.Menus.main }}
 [menus]
   [[menus.main]]
     name = 'Home'
@@ -14,4 +13,3 @@ theme = 'ananke'
   name = 'Group Work'
   pageRef = '/GroupWork'
   weight = 10
-{{ end }}
