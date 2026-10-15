@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'Group 5 Hugo'
-theme = 'ananke'
+theme = 'paige-master'
 
 [menus]
   [[menus.main]]
