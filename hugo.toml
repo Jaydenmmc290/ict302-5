@@ -1,4 +1,17 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Group 5 Hugo'
 theme = 'ananke'
+
+{{ range .Site.Menus.main }}
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[menus]
+  [[menus.main]]
+  name = 'Group Work'
+  pageRef = '/GroupWork'
+  weight = 10
+{{ end }}
