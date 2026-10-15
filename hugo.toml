@@ -8,7 +8,6 @@ theme = 'ananke'
     name = 'Home'
     pageRef = '/'
     weight = 10
-[menus]
   [[menus.main]]
   name = 'Group Work'
   pageRef = '/GroupWork'
