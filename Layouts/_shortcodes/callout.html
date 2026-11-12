@@ -1,0 +1,5 @@
+{{- /* Usage: {{< callout title="Tip" type="warning" >}}Text here{{< /callout >}}   type is optional: "tip" (default) or "warning" */ -}}
+<div class="callout {{ .Get "type" | default "tip" }}">
+  {{- with .Get "title" }}<div class="callout-title">{{ . }}</div>{{ end }}
+  {{ .Inner | markdownify }}
+</div>

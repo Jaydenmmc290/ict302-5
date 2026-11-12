@@ -1,31 +1,181 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>My New Hugo Project</title>
-		<link>http://localhost:1313/</link>
-		<description>Recent content on My New Hugo Project</description>
-		<generator>Hugo</generator>
-		<language>en-us</language>
-		
-		
-		
-		
-			<lastBuildDate>Thu, 01 Oct 2026 11:47:26 -0400</lastBuildDate>
-		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Jayden post</title>
-				<link>http://localhost:1313/posts/jayden_post/</link>
-				<pubDate>Thu, 01 Oct 2026 11:47:26 -0400</pubDate>
-				<guid>http://localhost:1313/posts/jayden_post/</guid>
-				<description>&lt;p&gt;This is a post and I can add Content to it&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Jayden_page</title>
-				<link>http://localhost:1313/jayden_page/</link>
-				<pubDate>Thu, 01 Oct 2026 11:43:30 -0400</pubDate>
-				<guid>http://localhost:1313/jayden_page/</guid>
-				<description>&lt;p&gt;&lt;strong&gt;This is a page, and I can add content to it&lt;/strong&gt;&lt;/p&gt;</description>
-			</item>
-	</channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Group 5 Hugo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Group 5 Hugo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For Teen Drivers</title>
+      <link>http://localhost:1313/families/for-teen-drivers/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/families/for-teen-drivers/</guid>
+      <description>&lt;h2 id=&#34;why-this-matters-to-you&#34;&gt;Why this matters to you&lt;/h2&gt;
+&lt;h2 id=&#34;what-the-lock-does-and-doesnt-share&#34;&gt;What the lock does and doesn&amp;rsquo;t share&lt;/h2&gt;
+&lt;h2 id=&#34;staying-in-touch-with-friends&#34;&gt;Staying in touch with friends&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>How the Driving Lock Works</title>
+      <link>http://localhost:1313/solution/how-the-driving-lock-works/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solution/how-the-driving-lock-works/</guid>
+      <description>&lt;h2 id=&#34;turning-on-automatically&#34;&gt;Turning on automatically&lt;/h2&gt;
+&lt;h2 id=&#34;while-the-car-is-running&#34;&gt;While the car is running&lt;/h2&gt;
+&lt;h2 id=&#34;when-the-phone-unlocks&#34;&gt;When the phone unlocks&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>References</title>
+      <link>http://localhost:1313/resources/references/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/references/</guid>
+      <description>&lt;h2 id=&#34;sources&#34;&gt;Sources&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Teens and Smartphones</title>
+      <link>http://localhost:1313/problem/teens-and-smartphones/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/problem/teens-and-smartphones/</guid>
+      <description>&lt;h2 id=&#34;how-early-teens-get-phones&#34;&gt;How early teens get phones&lt;/h2&gt;
+&lt;h2 id=&#34;always-connected&#34;&gt;Always connected&lt;/h2&gt;
+&lt;h2 id=&#34;the-pressure-to-reply&#34;&gt;The pressure to reply&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Distracted Driving by the Numbers</title>
+      <link>http://localhost:1313/problem/distracted-driving-by-the-numbers/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/problem/distracted-driving-by-the-numbers/</guid>
+      <description>&lt;h2 id=&#34;phones-and-crashes&#34;&gt;Phones and crashes&lt;/h2&gt;
+&lt;h2 id=&#34;how-many-teens-text-and-drive&#34;&gt;How many teens text and drive&lt;/h2&gt;
+&lt;h2 id=&#34;what-counts-as-distracted-driving&#34;&gt;What counts as distracted driving&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>For Parents</title>
+      <link>http://localhost:1313/families/for-parents/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/families/for-parents/</guid>
+      <description>&lt;h2 id=&#34;your-role&#34;&gt;Your role&lt;/h2&gt;
+&lt;h2 id=&#34;from-noticing-to-acting&#34;&gt;From noticing to acting&lt;/h2&gt;
+&lt;h2 id=&#34;peace-of-mind&#34;&gt;Peace of mind&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>http://localhost:1313/resources/faq/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/faq/</guid>
+      <description>&lt;h2 id=&#34;about-the-driving-lock&#34;&gt;About the driving lock&lt;/h2&gt;
+&lt;h2 id=&#34;for-teens&#34;&gt;For teens&lt;/h2&gt;
+&lt;h2 id=&#34;for-parents&#34;&gt;For parents&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>What Still Works While Driving</title>
+      <link>http://localhost:1313/solution/what-still-works/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solution/what-still-works/</guid>
+      <description>&lt;h2 id=&#34;emergency-calls&#34;&gt;Emergency calls&lt;/h2&gt;
+&lt;h2 id=&#34;navigation&#34;&gt;Navigation&lt;/h2&gt;
+&lt;h2 id=&#34;hands-free-calls-and-music&#34;&gt;Hands-free calls and music&lt;/h2&gt;
+&lt;h2 id=&#34;automatic-replies&#34;&gt;Automatic replies&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Further Reading and Videos</title>
+      <link>http://localhost:1313/resources/further-reading/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/further-reading/</guid>
+      <description>&lt;h2 id=&#34;articles&#34;&gt;Articles&lt;/h2&gt;
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+&lt;h2 id=&#34;organizations&#34;&gt;Organizations&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Passengers and Overrides</title>
+      <link>http://localhost:1313/solution/passengers-and-overrides/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solution/passengers-and-overrides/</guid>
+      <description>&lt;h2 id=&#34;passengers-keep-their-phones&#34;&gt;Passengers keep their phones&lt;/h2&gt;
+&lt;h2 id=&#34;riding-in-your-own-car&#34;&gt;Riding in your own car&lt;/h2&gt;
+&lt;h2 id=&#34;how-overrides-are-recorded&#34;&gt;How overrides are recorded&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Setting Up Family Controls</title>
+      <link>http://localhost:1313/families/setting-up-family-controls/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/families/setting-up-family-controls/</guid>
+      <description>&lt;h2 id=&#34;turning-on-the-lock-for-your-teen&#34;&gt;Turning on the lock for your teen&lt;/h2&gt;
+&lt;h2 id=&#34;reading-a-trip-summary&#34;&gt;Reading a trip summary&lt;/h2&gt;
+&lt;h2 id=&#34;talking-about-overrides&#34;&gt;Talking about overrides&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Why Teens Use Phones While Driving</title>
+      <link>http://localhost:1313/problem/why-teens-text-and-drive/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/problem/why-teens-text-and-drive/</guid>
+      <description>&lt;h2 id=&#34;staying-productive&#34;&gt;Staying productive&lt;/h2&gt;
+&lt;h2 id=&#34;everyone-else-is-doing-it&#34;&gt;Everyone else is doing it&lt;/h2&gt;
+&lt;h2 id=&#34;the-tasks-that-pull-attention-away&#34;&gt;The tasks that pull attention away&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Parents as Role Models</title>
+      <link>http://localhost:1313/families/parents-as-role-models/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/families/parents-as-role-models/</guid>
+      <description>&lt;h2 id=&#34;parents-text-and-drive-too&#34;&gt;Parents text and drive too&lt;/h2&gt;
+&lt;h2 id=&#34;leading-by-example&#34;&gt;Leading by example&lt;/h2&gt;
+&lt;h2 id=&#34;making-it-a-family-rule&#34;&gt;Making it a family rule&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>What Parents Worry About</title>
+      <link>http://localhost:1313/problem/what-parents-worry-about/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/problem/what-parents-worry-about/</guid>
+      <description>&lt;h2 id=&#34;worry-behind-the-wheel&#34;&gt;Worry behind the wheel&lt;/h2&gt;
+&lt;h2 id=&#34;riding-with-other-teen-drivers&#34;&gt;Riding with other teen drivers&lt;/h2&gt;
+&lt;h2 id=&#34;the-gap-between-seeing-and-acting&#34;&gt;The gap between seeing and acting&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Why Build It Into the Phone</title>
+      <link>http://localhost:1313/solution/why-built-into-the-phone/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solution/why-built-into-the-phone/</guid>
+      <description>&lt;h2 id=&#34;problems-with-add-on-apps&#34;&gt;Problems with add-on apps&lt;/h2&gt;
+&lt;h2 id=&#34;closing-the-loopholes&#34;&gt;Closing the loopholes&lt;/h2&gt;
+&lt;h2 id=&#34;built-in-for-everyone&#34;&gt;Built in for everyone&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Gaps in Current Solutions</title>
+      <link>http://localhost:1313/problem/gaps-in-current-solutions/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/problem/gaps-in-current-solutions/</guid>
+      <description>&lt;h2 id=&#34;tools-that-exist-today&#34;&gt;Tools that exist today&lt;/h2&gt;
+&lt;h2 id=&#34;monitoring-is-not-prevention&#34;&gt;Monitoring is not prevention&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-missing&#34;&gt;What is missing&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>What the Research Says</title>
+      <link>http://localhost:1313/solution/what-the-research-says/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solution/what-the-research-says/</guid>
+      <description>&lt;h2 id=&#34;simulator-results&#34;&gt;Simulator results&lt;/h2&gt;
+&lt;h2 id=&#34;why-people-dont-turn-blockers-on&#34;&gt;Why people don&amp;rsquo;t turn blockers on&lt;/h2&gt;
+&lt;h2 id=&#34;the-role-of-parent-feedback&#34;&gt;The role of parent feedback&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Limitations</title>
+      <link>http://localhost:1313/solution/limitations/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solution/limitations/</guid>
+      <description>&lt;h2 id=&#34;what-the-lock-cant-stop&#34;&gt;What the lock can&amp;rsquo;t stop&lt;/h2&gt;
+&lt;h2 id=&#34;depending-on-apple-and-google&#34;&gt;Depending on Apple and Google&lt;/h2&gt;
+&lt;h2 id=&#34;simulator-vs-real-roads&#34;&gt;Simulator vs. real roads&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>About This Site</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;the-project&#34;&gt;The project&lt;/h2&gt;
+&lt;h2 id=&#34;the-team&#34;&gt;The team&lt;/h2&gt;</description>
+    </item>
+  </channel>
 </rss>

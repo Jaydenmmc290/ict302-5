@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Statistics on Group 5 Hugo</title>
+    <link>http://localhost:1313/tags/statistics/</link>
+    <description>Recent content in Statistics on Group 5 Hugo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teens and Smartphones</title>
+      <link>http://localhost:1313/problem/teens-and-smartphones/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/problem/teens-and-smartphones/</guid>
+      <description>&lt;h2 id=&#34;how-early-teens-get-phones&#34;&gt;How early teens get phones&lt;/h2&gt;
+&lt;h2 id=&#34;always-connected&#34;&gt;Always connected&lt;/h2&gt;
+&lt;h2 id=&#34;the-pressure-to-reply&#34;&gt;The pressure to reply&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Distracted Driving by the Numbers</title>
+      <link>http://localhost:1313/problem/distracted-driving-by-the-numbers/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/problem/distracted-driving-by-the-numbers/</guid>
+      <description>&lt;h2 id=&#34;phones-and-crashes&#34;&gt;Phones and crashes&lt;/h2&gt;
+&lt;h2 id=&#34;how-many-teens-text-and-drive&#34;&gt;How many teens text and drive&lt;/h2&gt;
+&lt;h2 id=&#34;what-counts-as-distracted-driving&#34;&gt;What counts as distracted driving&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Parents as Role Models</title>
+      <link>http://localhost:1313/families/parents-as-role-models/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/families/parents-as-role-models/</guid>
+      <description>&lt;h2 id=&#34;parents-text-and-drive-too&#34;&gt;Parents text and drive too&lt;/h2&gt;
+&lt;h2 id=&#34;leading-by-example&#34;&gt;Leading by example&lt;/h2&gt;
+&lt;h2 id=&#34;making-it-a-family-rule&#34;&gt;Making it a family rule&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>What Parents Worry About</title>
+      <link>http://localhost:1313/problem/what-parents-worry-about/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/problem/what-parents-worry-about/</guid>
+      <description>&lt;h2 id=&#34;worry-behind-the-wheel&#34;&gt;Worry behind the wheel&lt;/h2&gt;
+&lt;h2 id=&#34;riding-with-other-teen-drivers&#34;&gt;Riding with other teen drivers&lt;/h2&gt;
+&lt;h2 id=&#34;the-gap-between-seeing-and-acting&#34;&gt;The gap between seeing and acting&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>What the Research Says</title>
+      <link>http://localhost:1313/solution/what-the-research-says/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solution/what-the-research-says/</guid>
+      <description>&lt;h2 id=&#34;simulator-results&#34;&gt;Simulator results&lt;/h2&gt;
+&lt;h2 id=&#34;why-people-dont-turn-blockers-on&#34;&gt;Why people don&amp;rsquo;t turn blockers on&lt;/h2&gt;
+&lt;h2 id=&#34;the-role-of-parent-feedback&#34;&gt;The role of parent feedback&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

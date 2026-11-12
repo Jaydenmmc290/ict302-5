@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Safety on Group 5 Hugo</title>
+    <link>http://localhost:1313/tags/safety/</link>
+    <description>Recent content in Safety on Group 5 Hugo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/safety/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For Parents</title>
+      <link>http://localhost:1313/families/for-parents/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/families/for-parents/</guid>
+      <description>&lt;h2 id=&#34;your-role&#34;&gt;Your role&lt;/h2&gt;
+&lt;h2 id=&#34;from-noticing-to-acting&#34;&gt;From noticing to acting&lt;/h2&gt;
+&lt;h2 id=&#34;peace-of-mind&#34;&gt;Peace of mind&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>What Parents Worry About</title>
+      <link>http://localhost:1313/problem/what-parents-worry-about/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/problem/what-parents-worry-about/</guid>
+      <description>&lt;h2 id=&#34;worry-behind-the-wheel&#34;&gt;Worry behind the wheel&lt;/h2&gt;
+&lt;h2 id=&#34;riding-with-other-teen-drivers&#34;&gt;Riding with other teen drivers&lt;/h2&gt;
+&lt;h2 id=&#34;the-gap-between-seeing-and-acting&#34;&gt;The gap between seeing and acting&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

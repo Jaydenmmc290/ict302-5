@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Simulator Study on Group 5 Hugo</title>
+    <link>http://localhost:1313/tags/simulator-study/</link>
+    <description>Recent content in Simulator Study on Group 5 Hugo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/simulator-study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What the Research Says</title>
+      <link>http://localhost:1313/solution/what-the-research-says/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solution/what-the-research-says/</guid>
+      <description>&lt;h2 id=&#34;simulator-results&#34;&gt;Simulator results&lt;/h2&gt;
+&lt;h2 id=&#34;why-people-dont-turn-blockers-on&#34;&gt;Why people don&amp;rsquo;t turn blockers on&lt;/h2&gt;
+&lt;h2 id=&#34;the-role-of-parent-feedback&#34;&gt;The role of parent feedback&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Role Models on Group 5 Hugo</title>
+    <link>http://localhost:1313/tags/role-models/</link>
+    <description>Recent content in Role Models on Group 5 Hugo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/role-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parents as Role Models</title>
+      <link>http://localhost:1313/families/parents-as-role-models/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/families/parents-as-role-models/</guid>
+      <description>&lt;h2 id=&#34;parents-text-and-drive-too&#34;&gt;Parents text and drive too&lt;/h2&gt;
+&lt;h2 id=&#34;leading-by-example&#34;&gt;Leading by example&lt;/h2&gt;
+&lt;h2 id=&#34;making-it-a-family-rule&#34;&gt;Making it a family rule&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

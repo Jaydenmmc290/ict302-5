@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Teens on Group 5 Hugo</title>
+    <link>http://localhost:1313/audiences/teens/</link>
+    <description>Recent content in Teens on Group 5 Hugo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/audiences/teens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For Teen Drivers</title>
+      <link>http://localhost:1313/families/for-teen-drivers/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/families/for-teen-drivers/</guid>
+      <description>&lt;h2 id=&#34;why-this-matters-to-you&#34;&gt;Why this matters to you&lt;/h2&gt;
+&lt;h2 id=&#34;what-the-lock-does-and-doesnt-share&#34;&gt;What the lock does and doesn&amp;rsquo;t share&lt;/h2&gt;
+&lt;h2 id=&#34;staying-in-touch-with-friends&#34;&gt;Staying in touch with friends&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Teens and Smartphones</title>
+      <link>http://localhost:1313/problem/teens-and-smartphones/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/problem/teens-and-smartphones/</guid>
+      <description>&lt;h2 id=&#34;how-early-teens-get-phones&#34;&gt;How early teens get phones&lt;/h2&gt;
+&lt;h2 id=&#34;always-connected&#34;&gt;Always connected&lt;/h2&gt;
+&lt;h2 id=&#34;the-pressure-to-reply&#34;&gt;The pressure to reply&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>What Still Works While Driving</title>
+      <link>http://localhost:1313/solution/what-still-works/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solution/what-still-works/</guid>
+      <description>&lt;h2 id=&#34;emergency-calls&#34;&gt;Emergency calls&lt;/h2&gt;
+&lt;h2 id=&#34;navigation&#34;&gt;Navigation&lt;/h2&gt;
+&lt;h2 id=&#34;hands-free-calls-and-music&#34;&gt;Hands-free calls and music&lt;/h2&gt;
+&lt;h2 id=&#34;automatic-replies&#34;&gt;Automatic replies&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Passengers and Overrides</title>
+      <link>http://localhost:1313/solution/passengers-and-overrides/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/solution/passengers-and-overrides/</guid>
+      <description>&lt;h2 id=&#34;passengers-keep-their-phones&#34;&gt;Passengers keep their phones&lt;/h2&gt;
+&lt;h2 id=&#34;riding-in-your-own-car&#34;&gt;Riding in your own car&lt;/h2&gt;
+&lt;h2 id=&#34;how-overrides-are-recorded&#34;&gt;How overrides are recorded&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Why Teens Use Phones While Driving</title>
+      <link>http://localhost:1313/problem/why-teens-text-and-drive/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/problem/why-teens-text-and-drive/</guid>
+      <description>&lt;h2 id=&#34;staying-productive&#34;&gt;Staying productive&lt;/h2&gt;
+&lt;h2 id=&#34;everyone-else-is-doing-it&#34;&gt;Everyone else is doing it&lt;/h2&gt;
+&lt;h2 id=&#34;the-tasks-that-pull-attention-away&#34;&gt;The tasks that pull attention away&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
