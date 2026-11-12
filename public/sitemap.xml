@@ -2,36 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-01T11:47:26-04:00</lastmod>
+    <loc>https://example.org/problem/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/jayden_post/</loc>
-    <lastmod>2026-10-01T11:47:26-04:00</lastmod>
+    <loc>https://example.org/solution/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-10-01T11:47:26-04:00</lastmod>
+    <loc>https://example.org/families/</loc>
   </url><url>
-    <loc>http://localhost:1313/jayden_page/</loc>
-    <lastmod>2026-10-01T11:43:30-04:00</lastmod>
+    <loc>https://example.org/resources/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/brownies/</loc>
+    <loc>https://example.org/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/audiences/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/colin_post/</loc>
+    <loc>https://example.org/tags/brownies/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/colin_post_2/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/fats/</loc>
+    <loc>https://example.org/tags/chicken-and-rice/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/low-calorie/</loc>
+    <loc>https://example.org/posts/colin_post/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/main-course/</loc>
+    <loc>https://example.org/posts/colin_post_2/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/meal/</loc>
+    <loc>https://example.org/tags/cookies/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/protein/</loc>
+    <loc>https://example.org/audiences/everyone/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/categories/fats/</loc>
+  </url><url>
+    <loc>https://example.org/</loc>
+  </url><url>
+    <loc>https://example.org/categories/low-calorie/</loc>
+  </url><url>
+    <loc>https://example.org/audiences/parents/</loc>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+  </url><url>
+    <loc>https://example.org/categories/protein/</loc>
+  </url><url>
+    <loc>https://example.org/search/</loc>
+  </url><url>
+    <loc>https://example.org/tags/steak-and-eggs/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+  </url><url>
+    <loc>https://example.org/audiences/teens/</loc>
   </url>
 </urlset>

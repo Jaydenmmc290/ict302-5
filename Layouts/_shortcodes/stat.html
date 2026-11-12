@@ -1,0 +1,6 @@
+{{- /* Usage: {{< stat number="42%" source="CDC via Delgado et al." >}}of U.S. high school students admit texting while driving{{< /stat >}} */ -}}
+<div class="stat">
+  <span class="stat-number">{{ .Get "number" }}</span>
+  <p class="stat-text">{{ .Inner | markdownify }}
+    {{- with .Get "source" }}<span class="stat-source">Source: {{ . }}</span>{{ end }}</p>
+</div>

@@ -2,30 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Group 5 Hugo</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Group 5 Hugo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brownies</title>
-      <link>http://localhost:1313/tags/brownies/</link>
+      <link>https://example.org/tags/brownies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brownies/</guid>
+      <guid>https://example.org/tags/brownies/</guid>
       <description></description>
     </item>
     <item>
-      <title>Main Course</title>
-      <link>http://localhost:1313/tags/main-course/</link>
+      <title>Chicken and Rice</title>
+      <link>https://example.org/tags/chicken-and-rice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/main-course/</guid>
+      <guid>https://example.org/tags/chicken-and-rice/</guid>
       <description></description>
     </item>
     <item>
-      <title>Meal</title>
-      <link>http://localhost:1313/tags/meal/</link>
+      <title>Cookies</title>
+      <link>https://example.org/tags/cookies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/meal/</guid>
+      <guid>https://example.org/tags/cookies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Steak and Eggs</title>
+      <link>https://example.org/tags/steak-and-eggs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/steak-and-eggs/</guid>
       <description></description>
     </item>
   </channel>

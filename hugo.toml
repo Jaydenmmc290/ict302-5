@@ -1,18 +1,102 @@
-baseURL = 'https://example.org/'
+# =====================================================================
+#  ICT 302 Group 5  ->  website for ICT 315 Group 1 (distracted driving)
+#  Search this file for "CONTENT:" to find every spot that needs text.
+# =====================================================================
+baseURL = 'https://example.org/'   # CONTENT: replace with the real hosting URL (e.g. GitHub Pages) before submitting
 locale = 'en-us'
-title = 'Group 5 Hugo'
+title = 'Group 5 Hugo'             # CONTENT: real site name (shows in the header and browser tab)
 theme = 'hugo-PaperMod-master'
+enableRobotsTXT = true
 
+# ---------- Aggregation scheme #2-4: taxonomies ----------
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  audience = 'audiences'           # custom taxonomy: Teens / Parents / Everyone
+
+# Needed for the Search page (PaperMod builds a JSON index of the site)
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+# ---------- Aggregation scheme #1: main menu ----------
 [menus]
   [[menus.main]]
     name = 'Home'
     pageRef = '/'
     weight = 10
   [[menus.main]]
-  name = 'Group Work'
-  pageRef = '/GroupWork'
-  weight = 10
-  
-  [taxonomies]
-	category = 'categories'
-	tag = 'tags'
+    name = 'Group Work'
+    pageRef = '/GroupWork'
+    weight = 10
+  [[menus.main]]
+    name = 'The Problem'
+    pageRef = '/problem'
+    weight = 10
+  [[menus.main]]
+    name = 'The Solution'
+    pageRef = '/solution'
+    weight = 20
+  [[menus.main]]
+    name = 'For Families'
+    pageRef = '/families'
+    weight = 30
+  [[menus.main]]
+    name = 'Resources'
+    pageRef = '/resources'
+    weight = 40
+  [[menus.main]]
+    name = 'Topics'
+    pageRef = '/tags'
+    weight = 50
+  [[menus.main]]
+    name = 'Audiences'
+    pageRef = '/audiences'
+    weight = 60
+  [[menus.main]]
+    name = 'Archive'
+    pageRef = '/archives'
+    weight = 70
+  [[menus.main]]
+    name = 'Search'
+    pageRef = '/search'
+    weight = 80
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 90
+
+[params]
+  env = 'production'
+  description = ''                 # CONTENT: one-sentence site description (used by search engines)
+  author = ''                      # CONTENT: e.g. 'ICT 315 Group 1'
+  defaultTheme = 'auto'            # light/dark follows the visitor's device
+  mainSections = ['problem', 'solution', 'families', 'resources']  # what the home page lists
+  ShowBreadCrumbs = true
+  ShowReadingTime = true
+  ShowToc = true
+  TocOpen = false
+  ShowPostNavLinks = true
+  ShowWordCount = false
+  ShowShareButtons = false
+  ShowCodeCopyButtons = false
+  disableSpecial1stPost = true
+
+  [params.homeInfoParams]
+    Title = ''                     # CONTENT: big headline on the home page
+    Content = ''                   # CONTENT: 1-3 sentence intro on the home page (markdown allowed)
+
+  [params.cover]
+    hiddenInList = false
+    hiddenInSingle = false
+
+  [params.footer]
+    text = ''                      # CONTENT: footer credit, e.g. built by ICT 302 Group 5 for ICT 315 Group 1
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 1
+    keys = ['title', 'permalink', 'summary', 'content']
