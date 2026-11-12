@@ -21,6 +21,14 @@ enableRobotsTXT = true
 # ---------- Aggregation scheme #1: main menu ----------
 [menus]
   [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Group Work'
+    pageRef = '/GroupWork'
+    weight = 10
+  [[menus.main]]
     name = 'The Problem'
     pageRef = '/problem'
     weight = 10

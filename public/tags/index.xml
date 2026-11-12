@@ -2,262 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Group 5 Hugo</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Group 5 Hugo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Android Auto</title>
-      <link>http://localhost:1313/tags/android-auto/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/android-auto/</guid>
+      <title>Brownies</title>
+      <link>https://example.org/tags/brownies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/brownies/</guid>
       <description></description>
     </item>
     <item>
-      <title>Apps</title>
-      <link>http://localhost:1313/tags/apps/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/apps/</guid>
+      <title>Chicken and Rice</title>
+      <link>https://example.org/tags/chicken-and-rice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/chicken-and-rice/</guid>
       <description></description>
     </item>
     <item>
-      <title>CarPlay</title>
-      <link>http://localhost:1313/tags/carplay/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/carplay/</guid>
+      <title>Cookies</title>
+      <link>https://example.org/tags/cookies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/cookies/</guid>
       <description></description>
     </item>
     <item>
-      <title>Crashes</title>
-      <link>http://localhost:1313/tags/crashes/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/crashes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Do Not Disturb</title>
-      <link>http://localhost:1313/tags/do-not-disturb/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/do-not-disturb/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Driving Lock</title>
-      <link>http://localhost:1313/tags/driving-lock/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/driving-lock/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emergency Calls</title>
-      <link>http://localhost:1313/tags/emergency-calls/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/emergency-calls/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Existing Tools</title>
-      <link>http://localhost:1313/tags/existing-tools/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/existing-tools/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Family Controls</title>
-      <link>http://localhost:1313/tags/family-controls/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/family-controls/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FAQ</title>
-      <link>http://localhost:1313/tags/faq/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/faq/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hands-Free</title>
-      <link>http://localhost:1313/tags/hands-free/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hands-free/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Independence</title>
-      <link>http://localhost:1313/tags/independence/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/independence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Life360</title>
-      <link>http://localhost:1313/tags/life360/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/life360/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Limitations</title>
-      <link>http://localhost:1313/tags/limitations/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/limitations/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Links</title>
-      <link>http://localhost:1313/tags/links/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/links/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Navigation</title>
-      <link>http://localhost:1313/tags/navigation/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/navigation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NHTSA</title>
-      <link>http://localhost:1313/tags/nhtsa/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nhtsa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Operating System</title>
-      <link>http://localhost:1313/tags/operating-system/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/operating-system/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Overrides</title>
-      <link>http://localhost:1313/tags/overrides/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/overrides/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Parents</title>
-      <link>http://localhost:1313/tags/parents/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/parents/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Passengers</title>
-      <link>http://localhost:1313/tags/passengers/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/passengers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Peer Pressure</title>
-      <link>http://localhost:1313/tags/peer-pressure/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/peer-pressure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/research/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Role Models</title>
-      <link>http://localhost:1313/tags/role-models/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/role-models/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Safety</title>
-      <link>http://localhost:1313/tags/safety/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/safety/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Setup</title>
-      <link>http://localhost:1313/tags/setup/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/setup/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Simulator Study</title>
-      <link>http://localhost:1313/tags/simulator-study/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/simulator-study/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Smartphones</title>
-      <link>http://localhost:1313/tags/smartphones/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/smartphones/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Social Media</title>
-      <link>http://localhost:1313/tags/social-media/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/social-media/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sources</title>
-      <link>http://localhost:1313/tags/sources/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sources/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Statistics</title>
-      <link>http://localhost:1313/tags/statistics/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/statistics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teens</title>
-      <link>http://localhost:1313/tags/teens/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/teens/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Texting</title>
-      <link>http://localhost:1313/tags/texting/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/texting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Trip Summaries</title>
-      <link>http://localhost:1313/tags/trip-summaries/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/trip-summaries/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Videos</title>
-      <link>http://localhost:1313/tags/videos/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/videos/</guid>
+      <title>Steak and Eggs</title>
+      <link>https://example.org/tags/steak-and-eggs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/steak-and-eggs/</guid>
       <description></description>
     </item>
   </channel>

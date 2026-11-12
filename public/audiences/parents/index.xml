@@ -2,84 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Parents on Group 5 Hugo</title>
-    <link>http://localhost:1313/audiences/parents/</link>
+    <link>https://example.org/audiences/parents/</link>
     <description>Recent content in Parents on Group 5 Hugo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/audiences/parents/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Teens and Smartphones</title>
-      <link>http://localhost:1313/problem/teens-and-smartphones/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problem/teens-and-smartphones/</guid>
-      <description>&lt;h2 id=&#34;how-early-teens-get-phones&#34;&gt;How early teens get phones&lt;/h2&gt;
-&lt;h2 id=&#34;always-connected&#34;&gt;Always connected&lt;/h2&gt;
-&lt;h2 id=&#34;the-pressure-to-reply&#34;&gt;The pressure to reply&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>For Parents</title>
-      <link>http://localhost:1313/families/for-parents/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/families/for-parents/</guid>
-      <description>&lt;h2 id=&#34;your-role&#34;&gt;Your role&lt;/h2&gt;
-&lt;h2 id=&#34;from-noticing-to-acting&#34;&gt;From noticing to acting&lt;/h2&gt;
-&lt;h2 id=&#34;peace-of-mind&#34;&gt;Peace of mind&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>What Still Works While Driving</title>
-      <link>http://localhost:1313/solution/what-still-works/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/solution/what-still-works/</guid>
-      <description>&lt;h2 id=&#34;emergency-calls&#34;&gt;Emergency calls&lt;/h2&gt;
-&lt;h2 id=&#34;navigation&#34;&gt;Navigation&lt;/h2&gt;
-&lt;h2 id=&#34;hands-free-calls-and-music&#34;&gt;Hands-free calls and music&lt;/h2&gt;
-&lt;h2 id=&#34;automatic-replies&#34;&gt;Automatic replies&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Passengers and Overrides</title>
-      <link>http://localhost:1313/solution/passengers-and-overrides/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/solution/passengers-and-overrides/</guid>
-      <description>&lt;h2 id=&#34;passengers-keep-their-phones&#34;&gt;Passengers keep their phones&lt;/h2&gt;
-&lt;h2 id=&#34;riding-in-your-own-car&#34;&gt;Riding in your own car&lt;/h2&gt;
-&lt;h2 id=&#34;how-overrides-are-recorded&#34;&gt;How overrides are recorded&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Setting Up Family Controls</title>
-      <link>http://localhost:1313/families/setting-up-family-controls/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/families/setting-up-family-controls/</guid>
-      <description>&lt;h2 id=&#34;turning-on-the-lock-for-your-teen&#34;&gt;Turning on the lock for your teen&lt;/h2&gt;
-&lt;h2 id=&#34;reading-a-trip-summary&#34;&gt;Reading a trip summary&lt;/h2&gt;
-&lt;h2 id=&#34;talking-about-overrides&#34;&gt;Talking about overrides&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Why Teens Use Phones While Driving</title>
-      <link>http://localhost:1313/problem/why-teens-text-and-drive/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problem/why-teens-text-and-drive/</guid>
-      <description>&lt;h2 id=&#34;staying-productive&#34;&gt;Staying productive&lt;/h2&gt;
-&lt;h2 id=&#34;everyone-else-is-doing-it&#34;&gt;Everyone else is doing it&lt;/h2&gt;
-&lt;h2 id=&#34;the-tasks-that-pull-attention-away&#34;&gt;The tasks that pull attention away&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Parents as Role Models</title>
-      <link>http://localhost:1313/families/parents-as-role-models/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/families/parents-as-role-models/</guid>
-      <description>&lt;h2 id=&#34;parents-text-and-drive-too&#34;&gt;Parents text and drive too&lt;/h2&gt;
-&lt;h2 id=&#34;leading-by-example&#34;&gt;Leading by example&lt;/h2&gt;
-&lt;h2 id=&#34;making-it-a-family-rule&#34;&gt;Making it a family rule&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>What Parents Worry About</title>
-      <link>http://localhost:1313/problem/what-parents-worry-about/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/problem/what-parents-worry-about/</guid>
-      <description>&lt;h2 id=&#34;worry-behind-the-wheel&#34;&gt;Worry behind the wheel&lt;/h2&gt;
-&lt;h2 id=&#34;riding-with-other-teen-drivers&#34;&gt;Riding with other teen drivers&lt;/h2&gt;
-&lt;h2 id=&#34;the-gap-between-seeing-and-acting&#34;&gt;The gap between seeing and acting&lt;/h2&gt;</description>
-    </item>
+    <atom:link href="https://example.org/audiences/parents/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

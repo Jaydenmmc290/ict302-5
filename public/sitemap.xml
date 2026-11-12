@@ -2,218 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/families/for-teen-drivers/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/problem/</loc>
   </url><url>
-    <loc>http://localhost:1313/solution/how-the-driving-lock-works/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/solution/</loc>
   </url><url>
-    <loc>http://localhost:1313/resources/references/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/families/</loc>
   </url><url>
-    <loc>http://localhost:1313/problem/teens-and-smartphones/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/resources/</loc>
   </url><url>
-    <loc>http://localhost:1313/problem/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/problem/distracted-driving-by-the-numbers/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/audiences/</loc>
   </url><url>
-    <loc>http://localhost:1313/families/for-parents/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/tags/brownies/</loc>
   </url><url>
-    <loc>http://localhost:1313/resources/faq/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/solution/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/tags/chicken-and-rice/</loc>
   </url><url>
-    <loc>http://localhost:1313/solution/what-still-works/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/posts/colin_post/</loc>
   </url><url>
-    <loc>http://localhost:1313/families/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/posts/colin_post_2/</loc>
   </url><url>
-    <loc>http://localhost:1313/resources/further-reading/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/tags/cookies/</loc>
   </url><url>
-    <loc>http://localhost:1313/solution/passengers-and-overrides/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/audiences/everyone/</loc>
   </url><url>
-    <loc>http://localhost:1313/families/setting-up-family-controls/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/categories/fats/</loc>
   </url><url>
-    <loc>http://localhost:1313/problem/why-teens-text-and-drive/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/</loc>
   </url><url>
-    <loc>http://localhost:1313/families/parents-as-role-models/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/categories/low-calorie/</loc>
   </url><url>
-    <loc>http://localhost:1313/resources/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/audiences/parents/</loc>
   </url><url>
-    <loc>http://localhost:1313/problem/what-parents-worry-about/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/solution/why-built-into-the-phone/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/categories/protein/</loc>
   </url><url>
-    <loc>http://localhost:1313/problem/gaps-in-current-solutions/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/solution/what-the-research-says/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/tags/steak-and-eggs/</loc>
   </url><url>
-    <loc>http://localhost:1313/solution/limitations/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/android-auto/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/apps/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/audiences/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/carplay/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/crashes/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/do-not-disturb/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/driving-lock/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/emergency-calls/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/audiences/everyone/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/existing-tools/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/family-controls/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/faq/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/for-families/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hands-free/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/independence/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/life360/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/limitations/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/links/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/navigation/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/nhtsa/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/operating-system/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/overrides/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/audiences/parents/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/parents/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/passengers/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/peer-pressure/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/research/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/resources/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/role-models/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/safety/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/setup/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/simulator-study/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/smartphones/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/social-media/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sources/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/statistics/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/audiences/teens/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/teens/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/texting/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/the-problem/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/the-solution/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/trip-summaries/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/videos/</loc>
-    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archives/</loc>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://example.org/audiences/teens/</loc>
   </url>
 </urlset>
