@@ -18,12 +18,22 @@ audiences = ['Everyone']
 
 ## Phones and crashes
 
-<!-- CONTENT -->
+Distracted driving-especially from smartphone use-is now one of the top emerging causes of car crashes among teens and young adults (Delgado et al.). Looking away from the road for even a few seconds dramatically raises the risk of serious accidents.
 
 ## How many teens text and drive
 
-<!-- CONTENT -->
+According to a recent CDC survey, about 42% of high school students admit to texting or emailing while driving at least once in the past month. This number highlights how common and risky this behavior remains.
 
 ## What counts as distracted driving
 
-<!-- CONTENT -->
+Distracted driving includes anything that takes your hands, eyes, or mind off the road.
+
+This covers:
+
+- Texting or using social media
+- Reading notifications
+- Making hands-on calls
+- Adjusting music or navigation apps
+- Even eating, drinking, or talking to passengers
+
+

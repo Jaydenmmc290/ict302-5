@@ -18,12 +18,12 @@ audiences = ['Parents']
 
 ## Turning on the lock for your teen
 
-<!-- CONTENT -->
+With built in family controls on iOS and Android, you can require the phone lock system for your teen's device. Setting it up is simple, you just link your accounts, select your teens profile, and activate driving mode. This ensures the phone lock can't be turned off without parental involvement.
 
 ## Reading a trip summary
 
-<!-- CONTENT -->
+After each drive, you can access a trip summary that shows whether the phone lock stayed active, if any overrides were used, and which features where accessed. These summaries help to spot patterns and reinforce safe driving habits.
 
 ## Talking about overrides
 
-<!-- CONTENT -->
+Overrides let teens unlock their phone when they aren't driving, like riding as a passenger or incase of an emergency. Every override is logged, giving you transparency and a chance to discuss the circumstances. Open, nonjudgmental conversations about overrides can build trust and maintain accountability.

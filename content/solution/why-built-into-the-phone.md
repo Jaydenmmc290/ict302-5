@@ -13,12 +13,12 @@ audiences = ['Everyone']
 
 ## Problems with add-on apps
 
-<!-- CONTENT -->
+Many teens and parents have tried using downloadable apps to block phone use while driving. However, research including a 2012 Texas study (Benden et al.) found that these apps often didn't work reliably. Phones could disable or uninstall blockers, and many teens simply stopped using them, leaving gaps in safety.
 
 ## Closing the loopholes
 
-<!-- CONTENT -->
+Background app blockers have their own weaknesses and clever users can sometimes bypass them by running apps in the background or exploiting loopholes (Creaser, 2015). These workarounds make it hard for families and schools to enforce safe driving rules and undermine the effectiveness of "do not disturb" apps.
 
 ## Built in for everyone
 
-<!-- CONTENT -->
+By making the driving lock a standard feature of the phone's operating system, it becomes much harder to remove, ignore, or outsmart. This ensures consistent protection for every user and closes the safety gap for teens, parents, and anyone looking to reduce distracted driving risks.

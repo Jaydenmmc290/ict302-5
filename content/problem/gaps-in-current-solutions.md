@@ -13,12 +13,12 @@ audiences = ['Everyone']
 
 ## Tools that exist today
 
-<!-- CONTENT -->
+Many people use tools like Do not Disturb while driving or family tracking apps such as Life360. These solutions can silence notifications or let parents know where their teen is, but most are designed for monitoring or muting, not fully blocking distractions. 
 
 ## Monitoring is not prevention
 
-<!-- CONTENT -->
+Apps that simply monitor driving or send alerts (like Life360) can inform parents but don't physically prevent phone use while driving. Notifications muting tools, meanwhile, only silence alerts and don't stop the driver from picking up the phone and opening apps.
 
 ## What is missing
 
-<!-- CONTENT -->
+What's still missing is a solution that actively locks access to distracting features during driving that would make it impossible to check messages, social feeds, or non-essential apps. Fully integrated phone locks would provide real prevention, closing the gaps left by todays silencing and monitoring tools. 
