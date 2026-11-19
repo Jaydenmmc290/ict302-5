@@ -13,12 +13,12 @@ audiences = ['Everyone']
 
 ## What the lock can't stop
 
-<!-- CONTENT -->
+No system is perfect. The driving lock can't prevent someone from using a borrowed phone or second device that isn't connected to the car system. Determined users may also find unique ways around the lock if they really wanted to.
 
 ## Depending on Apple and Google
 
-<!-- CONTENT -->
+For this technology to reach everyone, it needs to be adopted by major phone manufacturers such as Apple and Google, and built directly into their operating systems. Until then, not all users will have access to true built-in protection, and third party apps will still have their old weaknesses.
 
 ## Simulator vs. real roads
 
-<!-- CONTENT -->
+Much of the current research on phone locks comes from simulator studies, not real world driving. While these studies show strong safety benefits, actual driving conditions can be more unpredictable, and results may differ outside the lab.

@@ -13,12 +13,12 @@ audiences = ['Teens', 'Parents']
 
 ## Staying productive
 
-<!-- CONTENT -->
+Many teens use their phones while driving because they feel as though they have things that need to be done on the go. This can be as simple as checking notifications or as extreme as managing their schedules. It can feel like multitasking makes the most of your time, even if it increases risks on the road (Schmickler et al.).
 
 ## Everyone else is doing it
 
-<!-- CONTENT -->
+There's a strong pressure to stay connected, especially if the other teens are seen using their phones behind the wheel. If friend or classmates text, snap, or call while driving, it can seem normal and even expected which can create a cycle of risky habits.
 
 ## The tasks that pull attention away
 
-<!-- CONTENT -->
+Texting is the most common reason teens pick up their phones while driving, but social media, music apps, and calls can also take focus off the road. Each distraction that takes your eyes off the road is taking your mind off of what matters most: safe driving.

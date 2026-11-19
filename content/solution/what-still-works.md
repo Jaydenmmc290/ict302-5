@@ -13,16 +13,16 @@ audiences = ['Teens', 'Parents']
 
 ## Emergency calls
 
-<!-- CONTENT -->
+You may need to reach 911 or a trusted contact in a crisis such as a medical emergency, breakdown, or witnessing a crime. Disabling everything would put you at risk if you can't contact help when needed.
 
 ## Navigation
 
-<!-- CONTENT -->
+Navigation apps on your car will display to help you reach your destination. This will allow you to set your destination before departing and will allow for corrections as needed.
 
 ## Hands-free calls and music
 
-<!-- CONTENT -->
+Hands-free features would allow you to receive calls and control music without having to look off the road to use your phone. This keeps your focus on driving while still allowing essential communication and entertainment.
 
 ## Automatic replies
 
-<!-- CONTENT -->
+When your phone is locked, automatic replies let friends and family know that you are currently driving and can't respond at the moment. This reduces the pressure to check messages, so you aren't tempted to break the rules for a "quick text."

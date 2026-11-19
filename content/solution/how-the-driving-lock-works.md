@@ -18,12 +18,12 @@ audiences = ['Everyone']
 
 ## Turning on automatically
 
-<!-- CONTENT -->
+The driving lock system activates automatically whenever your phones connects to your car through CarPlay, Android Auto, or Bluetooth. You don't have to do anything, just start the car and the phone lock takes care of the rest, following NHTSA 2016 guidelines on when driving begins.
 
 ## While the car is running
 
-<!-- CONTENT -->
+Once the system detects you're driving, it restricts access to distracting apps and notifications. Essential features, like emergency calls, navigation, and hands-free tools, remain available. Your phone stays in a "locked" mode until the car is parked or turned off.
 
 ## When the phone unlocks
 
-<!-- CONTENT -->
+As soon as you park or turn off the car, your phone lock automatically switches off. You regain full access to your device and can safely catch up on massages or notifications without risking your safety or anyone else's. 
