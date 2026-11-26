@@ -1,0 +1,115 @@
+
+<div class="driving-lock-demo">
+    <h2>Driving Lock Simulator</h2>
+    <p>Switch between parked and driving modes to explore how Driving Lock could work.</p>
+  
+    <div class="driving-controls">
+      <button type="button" data-mode="parked">Parked</button>
+      <button type="button" data-mode="driving">Driving</button>
+    </div>
+  
+    <div class="demo-phone">
+      <div class="lock-status">
+        <span class="lock-icon">🔓</span>
+        <h3 class="status-title">Driving Lock Inactive</h3>
+        <p class="status-description">Vehicle is parked.</p>
+      </div>
+  
+      <div class="phone-apps">
+        <button type="button" class="phone-app" data-restricted="true">
+          <span>💬</span>
+          Messages
+          <small>Available</small>
+        </button>
+  
+        <button type="button" class="phone-app" data-restricted="true">
+          <span>📱</span>
+          Social Media
+          <small>Available</small>
+        </button>
+  
+        <button type="button" class="phone-app" data-restricted="false">
+          <span>📍</span>
+          Navigation
+          <small>Available</small>
+        </button>
+  
+        <button type="button" class="phone-app" data-restricted="false">
+          <span>☎️</span>
+          Emergency
+          <small>Available</small>
+        </button>
+      </div>
+  
+      <p class="demo-feedback" aria-live="polite"></p>
+    </div>
+  
+    <p class="demo-disclaimer">
+      Educational simulation only. This demonstration does not
+      control your phone or connect to a vehicle.
+    </p>
+  </div>
+  
+  <script>
+  (() => {
+    const demo = document.currentScript.previousElementSibling;
+    let driving = false;
+  
+    const apps = demo.querySelectorAll(".phone-app");
+    const controls = demo.querySelectorAll("[data-mode]");
+    const feedback = demo.querySelector(".demo-feedback");
+  
+    function setMode(isDriving) {
+      driving = isDriving;
+  
+      demo.querySelector(".lock-icon").textContent =
+        driving ? "🔒" : "🔓";
+  
+      demo.querySelector(".status-title").textContent =
+        driving ? "Driving Lock Active" : "Driving Lock Inactive";
+  
+      demo.querySelector(".status-description").textContent =
+        driving ? "Stay focused on the road." : "Vehicle is parked.";
+  
+      controls.forEach(button => {
+        const active = button.dataset.mode ===
+          (driving ? "driving" : "parked");
+  
+        button.classList.toggle("active", active);
+        button.setAttribute("aria-pressed", active);
+      });
+  
+      apps.forEach(app => {
+        const restricted =
+          driving && app.dataset.restricted === "true";
+  
+        app.classList.toggle("restricted", restricted);
+  
+        app.querySelector("small").textContent =
+          restricted ? "Restricted" : "Available";
+      });
+  
+      feedback.textContent = "";
+    }
+  
+    controls.forEach(button => {
+      button.addEventListener("click", () => {
+        setMode(button.dataset.mode === "driving");
+      });
+    });
+  
+    apps.forEach(app => {
+      app.addEventListener("click", () => {
+        if (driving && app.dataset.restricted === "true") {
+          feedback.textContent =
+            "This app is restricted while driving. Stay safe!";
+        } else {
+          feedback.textContent =
+            "This feature is available in the simulation.";
+        }
+      });
+    });
+  
+    setMode(false);
+  })();
+  </script>  
